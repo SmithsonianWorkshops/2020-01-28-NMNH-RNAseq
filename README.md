@@ -1,10 +1,5 @@
 # RNAseq Workshop at NMNH
-
-
-Etherpad link: https://pad.carpentries.org/2020-01-28-NMNH-RNAseq
-
-Interested in future workshops? Please [keep in touch.](keeping_in_touch.md)
-
+### Workshop Outline
 
 | Schedule  | Topic  |
 |---|---|
@@ -22,7 +17,11 @@ Interested in future workshops? Please [keep in touch.](keeping_in_touch.md)
 |3:00 pm |BREAK  |
 |3:15 pm |Differential Expression Analysis (Continued)  |
 
+###Useful Links
 
+Etherpad link: https://pad.carpentries.org/2020-01-28-NMNH-RNAseq
+
+Interested in future workshops? Please [keep in touch.](keeping_in_touch.md)
 
 # RNAseq Materials
 
