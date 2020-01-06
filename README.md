@@ -3,7 +3,7 @@
 
 Etherpad link: https://pad.carpentries.org/2020-01-28-NMNH-RNAseq
 
-Keeping in touch: [keeping\_in\_touch.md](keeping_in_touch.md)
+Interested in future workshops? Please [keep in touch.](keeping_in_touch.md)
 
 
 
