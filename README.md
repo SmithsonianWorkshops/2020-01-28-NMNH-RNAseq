@@ -3,11 +3,11 @@
 
 Etherpad link: https://pad.carpentries.org/2020-01-28-NMNH-RNAseq
 
-Keeping in touch: [keeping\_in\_touch.md](keeping_in_touch.md)# 2020-01-28-NMNH-RNAseq
+Keeping in touch: [keeping\_in\_touch.md](keeping_in_touch.md)
 
 
 
-# RNAseq
+# RNAseq Materials
 
 These are the materials used for the RNAseq course given at the Smithsonian Natural History Museum on January 28th 2020. 
 
