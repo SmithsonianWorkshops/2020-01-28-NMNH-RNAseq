@@ -142,5 +142,5 @@ This tells us that 2 transcripts had were between 90 and 100% length, 0 were bet
 
 ```
 Results of all tutorials can be found here:
-/data/genomics/workshops/smsc/RNA_Seq/SMSC_results.tar.gz
+/data/genomics/workshops/RNAseq/RNAseq_results.tar.gz
 ```

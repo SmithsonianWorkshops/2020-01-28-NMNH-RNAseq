@@ -2,7 +2,7 @@
 
 We will be using RSEM to quantify the expression levels of the transcripts that have been assembled by Trinity. But because we do not have proper biological replicates for the Red Sisken RNAseq data, we will be using _Candida_ _glabrata_ transcriptome data. The paper from which these data are derived examined *C. glabrata* in two conditions, nutrient rich (wt) and under nitrosative stress (GNSO).
 
-Make sure that you are in your ```/scratch/genomics/<username>/smsc_2019/rnaseq``` directory.
+Make sure that you are in your ```/scratch/genomics/<username>/rnaseq``` directory.
 
 Create a subdirectory for these analyses called "quant."
 
@@ -304,6 +304,6 @@ Now you can look at the N50 stats scaled by the genes with the highest expressio
 
 ```
 Results of all tutorials can be found here:
-/data/genomics/workshops/smsc/RNA_Seq/SMSC_results.tar.gz
+/data/genomics/workshops/RNAseq/RNAseq_results.tar.gz
 ```
 

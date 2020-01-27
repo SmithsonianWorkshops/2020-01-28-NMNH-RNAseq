@@ -3,7 +3,7 @@
 
 #### Get the data
 
-The data that we will be using for this workshop found in ```/data/genomics/workshops/RNAseq/RNAseq_data.tar.gz```. Make a new subdirectory in your ```/scratch/genomics/<username>/smsc_2019/``` directory and copy the data there.
+The data that we will be using for this workshop found in ```/data/genomics/workshops/RNAseq/RNAseq_data.tar.gz```. Make a new subdirectory in your ```/scratch/genomics/<username>/``` directory and copy the data there.
 
 ```
 $ cd /scratch/genomics/<username>/
@@ -71,7 +71,7 @@ Commands:
 ```
 $ pwd
 $ qrsh -pe mthread 2
-$ cd /scratch/genomics/<username>/smsc_2019/rnaseq/trimgalore/
+$ cd /scratch/genomics/<username>/rnaseq/trimgalore/
 $ module load bioinformatics/trim_galore
 $ trim_galore --paired --retain_unpaired ../data/RNA_Eye_1.fastq ../data/RNA_Eye_2.fastq &>trim_galore.log &
 $ tail trim_galore.log

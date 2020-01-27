@@ -4,7 +4,7 @@ _Note: First we need to load our modules_
 
 Once you are logged in to hydra:
 
-Make sure that you are in your ```/scratch/genomics/<username>/smsc_2019/rnaseq``` directory.
+Make sure that you are in your ```/scratch/genomics/<username>/rnaseq``` directory.
 
 Create a working directory and enter that directory:
 
