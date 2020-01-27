@@ -3,19 +3,19 @@
 
 #### Get the data
 
-The data that we will be using for this workshop found in ```/data/genomics/workshops/smsc/RNA_Seq/SMSC_data.tar.gz```. Make a new subdirectory in your ```/scratch/genomics/<username>/smsc_2019/``` directory and copy the data there.
+The data that we will be using for this workshop found in ```/data/genomics/workshops/RNAseq/RNAseq_data.tar.gz```. Make a new subdirectory in your ```/scratch/genomics/<username>/smsc_2019/``` directory and copy the data there.
 
 ```
-$ cd /scratch/genomics/<username>/smsc_2019/
+$ cd /scratch/genomics/<username>/
 $ mkdir rnaseq
 $ cd rnaseq
-$ cp /data/genomics/workshops/smsc/RNA_Seq/SMSC_data.tar.gz .
+$ cp /data/genomics/workshops/RNAseq/RNAseq_data.tar.gz ./
 ```
 
 Now unpack/unzip the tar file:
 
 ```
-$ tar -xvzf SMSC_data.tar.gz
+$ tar -xvzf RNAseq_data.tar.gz
 ```
 
 Go ahead and take a look at the data in your directory:
@@ -83,5 +83,5 @@ $ tail trim_galore.log
 
 ```
 Results of all tutorials can be found here:
-/data/genomics/workshops/smsc/RNA_Seq/SMSC_results.tar.gz
+/data/genomics/workshops/RNAseq/RNAseq_results.tar.gz
 ```
