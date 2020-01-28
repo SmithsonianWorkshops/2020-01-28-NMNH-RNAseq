@@ -28,4 +28,4 @@ Etherpad link: https://pad.carpentries.org/2020-01-28-NMNH-RNAseq
 
 Interested in future workshops? Please [keep in touch.](keeping_in_touch.md)
 
-
+### PRECOURSE SURVEY: https://forms.gle/cGz68tMjbtz5ZVA67
