@@ -14,7 +14,7 @@ These are the [materials](https://github.com/SmithsonianWorkshops/2020-01-28-NMN
 |10:15 am|BREAK  |
 |10:30 am|Evaluate Read Quality (FASTQC)  |
 |11:17 am|Trimming & Data refinement (Trimgalore)  |
-|12:00 am|Lunch  |
+|12:00 pm|Lunch  |
 |1:15 pm|De Novo Transcriptome Assembly (Trinity)  |
 |1:45 pm |QA/QC of Assembly  |
 |2:15 pm |Transcript Quantification  |
