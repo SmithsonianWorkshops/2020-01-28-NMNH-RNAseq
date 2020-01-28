@@ -13,14 +13,13 @@ These are the [materials](https://github.com/SmithsonianWorkshops/2020-01-28-NMN
 |10:00 am|Informatics Introduction   |
 |10:15 am|BREAK  |
 |10:30 am|Evaluate Read Quality (FASTQC)  |
-|11:00 am|Trimming & Data refinement (Trimgalore)  |
-|11:30 am|De Novo Transcriptome Assembly (Trinity)  |
-|12:00 pm|Lunch  |
-|1:15 pm |QA/QC of Assembly  |
-|1:45 pm |Transcript Quantification  |
-|2:30 pm |Differential Expression Analysis  |
+|11:17 am|Trimming & Data refinement (Trimgalore)  |
+|12:00 am|Lunch  |
+|1:15 pm|De Novo Transcriptome Assembly (Trinity)  |
+|1:45 pm |QA/QC of Assembly  |
+|2:15 pm |Transcript Quantification  |
 |3:00 pm |BREAK  |
-|3:15 pm |Differential Expression Analysis (Continued)  |
+|3:15 pm |Differential Expression Analysis |
 
 ### Useful Links
 
